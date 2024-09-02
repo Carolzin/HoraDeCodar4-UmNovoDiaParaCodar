@@ -1,4 +1,4 @@
-# Hora de Codar 4: Um Novo Dia para Codar 🌞💻
+# Hora de Codar 4: Um Novo Dia para Codar 🌞
 Bem-vindo ao **Hora de Codar 4**  Este repositório contém 3 exercícios em JavaScript solicitados pelo professor como parte da atividade "Hora de Codar". É a continuação das atividades anteriores:
 
 Hora de Codar 3: De Volta ao Código;
